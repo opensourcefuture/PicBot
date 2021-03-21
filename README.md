@@ -1,5 +1,6 @@
 # PicBot
 ### 介绍
+![QQ截图20210321180946.png](https://i.loli.net/2021/03/21/3f6ANqtwZEQU7cg.png) <br />
 QQ机器人百度图片搜索，随机展示
 ### 构建
 #### 构建依赖
