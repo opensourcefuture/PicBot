@@ -14,7 +14,7 @@ QQ机器人百度图片搜索，随机展示
 #### 运行依赖
 实现了 OneBot V11 的框架，开启websocket正向链接
 #### 触发方式
-一张XXX的色图
+来点XXX的色图
 ### 相关项目
 https://github.com/howmanybots/onebot <br>
 https://github.com/cyanray/LightWebSocketClient <br>
